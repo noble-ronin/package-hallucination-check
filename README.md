@@ -120,4 +120,4 @@ machine-readable signal across these three registries that distinguishes
 Built on top of
 [`package-registry-scraper`](https://apify.com/ponderable_hydrometer/package-registry-scraper)
 on Apify (keyless npm/PyPI/crates.io lookups as a dataset). Longer write-up
-with the backstory: [dev.to article](https://dev.to/ronin13/ai-keeps-recommending-fake-packages-i-checked-which-ones-are-still-sitting-open).
+with the backstory: [dev.to article](https://dev.to/ronin13/ai-keeps-recommending-fake-packages-i-checked-which-ones-are-still-sitting-open-47c3).
